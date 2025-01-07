@@ -16,4 +16,5 @@ int main(){
         if(arr[i] == min) cnt++;
     }
     cout << cnt << endl;
+    return 0;
 }
